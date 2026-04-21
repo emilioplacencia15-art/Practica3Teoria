@@ -170,8 +170,4 @@ Cumpliendo con los requerimientos de análisis visual, la interfaz presenta una 
 
 ## Conclusión
 
-El desarrollo de esta práctica consolidó la comprensión algorítmica de la teoría de autómatas. La transición de un modelo AFD a uno no determinista (AFND y AFN-λ) exigió rediseñar el motor de procesamiento para evaluar múltiples caminos simultáneos, destacando el uso de la λ-clausura para manejar transiciones vacías.
-
-Asimismo, la implementación de los algoritmos de subconjuntos y de minimización (clases de equivalencia) demostró de forma práctica cómo los autómatas complejos pueden transformarse en máquinas de estados mínimas y optimizadas sin alterar el lenguaje que aceptan. 
-
-En conjunto, la herramienta resultante no solo cumple con los requerimientos de la unidad de aprendizaje, sino que facilita enormemente el análisis y la comprobación visual de estos conceptos matemáticos abstractos.
+El desarrollo de esta práctica consolidó la comprensión algorítmica de la teoría de autómatas. La transición de un modelo AFD a uno no determinista (AFND y AFN-λ) exigió rediseñar el motor de procesamiento para evaluar múltiples caminos simultáneos, destacando el uso de la λ-clausura para manejar transiciones vacías, asimismo, la implementación de los algoritmos de subconjuntos y de minimización (clases de equivalencia) demostró de forma práctica cómo los autómatas complejos pueden transformarse en máquinas de estados mínimas y optimizadas sin alterar el lenguaje que aceptan, la herramienta resultante no solo cumple con los requerimientos de la unidad de aprendizaje, sino que facilita enormemente el análisis y la comprobación visual de estos conceptos matemáticos abstractos.
